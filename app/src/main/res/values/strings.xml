@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToggleButton</string>
+    <string name="textView"><![CDATA[Hide & Seek]]></string>
+    <string name="textView1ID">You are Welcome !!!</string>
+    <string name="hide_seek"><![CDATA[Hide & Seek]]></string>
+    <string name="hidename">You are Welcome !!!</string>
+</resources>
